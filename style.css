@@ -3,8 +3,8 @@ body {
 }
 
 .boxed {
-    width: 700px;
-    height: 450px;
+    width: auto;
+    height: auto;
     margin: auto;
     padding: 30px;
     background-color: white;
